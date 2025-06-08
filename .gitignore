@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+data/
+
+
+# Ignore backup/temporary files
+*~
+*.un~
+
+.virtual_documents/
